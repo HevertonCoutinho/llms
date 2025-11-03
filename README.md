@@ -1,6 +1,3 @@
-Perfeito 👍 — segue um README.md totalmente genérico, sem nenhuma menção a clientes.
-O foco é explicar o funcionamento técnico do script e como utilizá-lo em qualquer projeto.
-
 🕷️ Screaming Frog → llms.txt Generator
 
 Este projeto converte automaticamente o arquivo internal_html.csv exportado do Screaming Frog SEO Spider em um arquivo llms.txt formatado em Markdown.
